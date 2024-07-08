@@ -23,7 +23,7 @@ const Home = () => {
                   <h5 className="card-title">{item.title}</h5>
                 </Link>
                 <p className="card-text">{item.price}$</p>
-                <button className="btn btn-warning">Buy Now</button>
+                <button className="btn btn-warning">Buy No</button>
               </div>
             </div>
           </div>
